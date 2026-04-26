@@ -7,9 +7,9 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { CookieConsentBanner } from "@/components/layout/cookie-consent";
 import { Analytics } from "@/components/layout/analytics";
-import { EzoicScripts, EzoicRouteHandler } from "@/components/layout/ezoic-ads";
 import { WebsiteStructuredData } from "@/components/seo/structured-data";
 import { AppBanner } from "@/components/layout/app-banner";
+import { AnnouncementBanner } from "@/components/layout/announcement-banner";
 import { LocaleDetector } from "@/components/providers/locale-detector";
 import { getConfig } from "@/lib/config";
 import { isRtlLocale } from "@/lib/i18n/config";
@@ -185,13 +185,11 @@ export default async function RootLayout({
           <meta name="google-adsense-account" content={process.env.GOOGLE_ADSENSE_ACCOUNT} />
         )}
         <WebsiteStructuredData />
-        {process.env.NEXT_PUBLIC_EZOIC_ENABLED === "true" && <EzoicScripts />}
       </head>
       <body className={`${fontClasses} antialiased`}>
         {process.env.GOOGLE_ANALYTICS_ID && (
           <Analytics gaId={process.env.GOOGLE_ANALYTICS_ID} />
         )}
-        {process.env.NEXT_PUBLIC_EZOIC_ENABLED === "true" && <EzoicRouteHandler />}
         <Providers locale={locale} messages={messages} theme={config.theme} branding={{ ...config.branding, useCloneBranding: config.homepage?.useCloneBranding }}>
           {isEmbedRoute || isKidsRoute ? (
             children
@@ -199,6 +197,7 @@ export default async function RootLayout({
             <>
               <LocaleDetector />
               <div className="relative min-h-screen flex flex-col">
+                <AnnouncementBanner />
                 <Header authProvider={config.auth.provider} allowRegistration={config.auth.allowRegistration} />
                 <main className="flex-1">{children}</main>
                 <Footer />
