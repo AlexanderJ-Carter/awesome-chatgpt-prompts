@@ -38,6 +38,7 @@ jobs:
           git push origin main --force-with-lease
 
       - name: Sync to Hugging Face
+        if: ${{ secrets.HF_API_TOKEN != '' }}
         env:
           HF_API_TOKEN: ${{ secrets.HF_API_TOKEN }}
         run: |
