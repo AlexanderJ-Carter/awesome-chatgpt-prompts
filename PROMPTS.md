@@ -830,7 +830,7 @@ I want to act as a Statistician. I will provide you with details related with st
 
 ## Prompt Generator
 
-Contributed by [@cperalesg@gmail.com](https://github.com/cperalesg@gmail.com)
+Contributed by @anonymous
 
 ```md
 CONTEXT: 
@@ -7161,7 +7161,7 @@ Variables:
 
 ## Interview Preparation Coach
 
-Contributed by [@beresasis@gmail.com](https://github.com/beresasis@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as an Interview Preparation Coach. You are an expert in guiding candidates through various interview processes. Your task is to help users prepare effectively for their interviews.
@@ -31054,7 +31054,7 @@ quiero mejorar este montaje fotográfico para que parezca realista. Me he integr
 
 ## Article Summarizer
 
-Contributed by [@lior1976@gmail.com](https://github.com/lior1976@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as an Article Summarizer. You are an expert in distilling articles into concise summaries, capturing essential points and themes.
@@ -32037,7 +32037,7 @@ If `.tasks/` folder doesn't exist, create it and optionally create `CONTEXT.md` 
 
 ## Echoes of the Rust Age
 
-Contributed by [@aitank2020@gmail.com](https://github.com/aitank2020@gmail.com)
+Contributed by @anonymous
 
 ```md
 You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness. Place Subject 1 (male) and Subject 2 (female) as post-apocalyptic wanderers in a desert of junk. They are traversing a massive canyon formed by centuries of rusted debris. The image must be photorealistic, featuring cinematic lighting, highly detailed skin textures and environmental grit, shot on Arri Alexa with a shallow depth of field to isolate them from the chaotic background.
@@ -32442,7 +32442,7 @@ Rules:
 
 ## Code Review Specialist 2
 
-Contributed by [@dragoy18@gmail.com](https://github.com/dragoy18@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as a Code Review Specialist. You are an experienced software developer with a keen eye for detail and a deep understanding of coding standards and best practices. 
@@ -121174,7 +121174,7 @@ This ensures the storyboard is well-directed and not random, maintaining focus a
 
 ## The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration
 
-Contributed by [@prksinbox@gmail.com](https://github.com/prksinbox@gmail.com)
+Contributed by @anonymous
 
 ```md
 Create a video that explores the mysterious acoustic properties of ancient Dravidian pillars. Highlight how these structures resonate like flutes, challenging modern engineering principles. The video should cover: 
@@ -121193,7 +121193,7 @@ Include visuals of the pillars, diagrams of sound waves, and expert commentary t
 
 ## 电影视觉指导与AIGC分镜生成器
 
-Contributed by [@343300327@qq.com](https://github.com/343300327@qq.com)
+Contributed by @anonymous
 
 ```md
 Act as a film visual director and AIGC storyboard artist. Your task is to generate a professional storyboard execution table based on the provided plot or scene description.
@@ -121433,7 +121433,7 @@ FAIL-SAFE:
 
 ## handle bug in feature
 
-Contributed by [@dishantpatel624@gmail.com](https://github.com/dishantpatel624@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as a senior software engineer and system architect.
@@ -121614,7 +121614,7 @@ Before answering:
 
 ## details of the given bug
 
-Contributed by [@dishantpatel624@gmail.com](https://github.com/dishantpatel624@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as a senior software analyst.
@@ -121702,7 +121702,7 @@ Create a stylized travel poster / graphic collage for ${country}. The main subje
 
 ## Street-art punk poster
 
-Contributed by [@dmytrokovych@gmail.com](https://github.com/dmytrokovych@gmail.com)
+Contributed by @anonymous
 
 ```md
 Create a high-resolution graphic artwork in a bold street-art / punk poster style. Composition: dynamic, asymmetrical collage of repeated human skulls across the canvas, varying in scale, rotation, and cropping, with overlaps and edge cut-offs. Arrange diagonally to create motion and flow (no symmetry).
@@ -121763,7 +121763,7 @@ Focus on practical guidance with an emphasis on compliance, customization, and i
 
 ## Competitor Awareness
 
-Contributed by [@shamanthreddy57@gmail.com](https://github.com/shamanthreddy57@gmail.com)
+Contributed by @anonymous
 
 ```md
 give the best prompt to identify the complete company profile of euler, like core aspeccts to focus on, fundraising, growth strategy, series funding, execution plan, vc involvement, etc. Basically complete data about Euler motors
@@ -121776,7 +121776,7 @@ give the best prompt to identify the complete company profile of euler, like cor
 
 ## Comprehensive VC Fundraising Analysis
 
-Contributed by [@shamanthreddy57@gmail.com](https://github.com/shamanthreddy57@gmail.com)
+Contributed by @anonymous
 
 ```md
 Act as a seasoned venture capital analyst with extensive experience in evaluating company fundraising strategies and investor dynamics. Your task is to provide a detailed analysis of a company's fundraising rounds, including:
@@ -121841,7 +121841,7 @@ Now, analyze the provided image and generate the most inclusive Alt Text possibl
 
 ## Claude Deep Prompt
 
-Contributed by [@thomas.adamson.16@gmail.com](https://github.com/thomas.adamson.16@gmail.com)
+Contributed by @anonymous
 
 ```md
 You are a research analyst specializing in [specific field]. When I ask you a question, give me a quick summary first, then a deeper explanation with specifics, and end with two or three follow-up questions I should be asking that I probably haven't thought of.Prioritize recent information, and if something is debated or unclear, show me both sides instead of just picking one.
@@ -122432,7 +122432,7 @@ I want you to act as a Game Logic Architect specializing in puzzle mechanics. I 
 
 ## Data Lineage Agent Skill
 
-Contributed by [@ajillell_uhg](https://github.com/ajillell_uhg)
+Contributed by @ajillell_uhg
 
 ```md
 ---
